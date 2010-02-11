@@ -59,6 +59,11 @@ Example
       puts
     end
 
+Notes
+-----
+
+Props to Psi <http://github.com/psi> for the awesome name. Way better than Rbuzz :)
+
 COPYRIGHT
 ---------
 
