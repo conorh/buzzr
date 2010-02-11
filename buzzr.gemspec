@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'buzzr'
-  s.version = '0.1'
+  s.version = '0.2'
   s.date = '2010-02-10'
   s.authors = ['Conor Hunt']
   s.email = 'conor.hunt@gmail.com'

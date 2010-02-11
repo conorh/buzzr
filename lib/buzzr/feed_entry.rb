@@ -42,7 +42,7 @@ module Buzzr
     end
 
     def videos
-      @videos ||= @atom_entry.links.find_all {|l| l.type =~ /video/i }.collect {|l| l.href}
+      @videos ||= @atom_entry.links.find_all {|l| l.type =~ %r{application/x-shockwave-flash}i }.collect {|l| l.href}
     end
 
     def author
