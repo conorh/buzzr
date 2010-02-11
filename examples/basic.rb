@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'buzzr'
 
 feed_url = Buzzr::Feed.discover(ARGV[0])

@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'atom'
 require 'open-uri'
 require 'buzzr/feed'
