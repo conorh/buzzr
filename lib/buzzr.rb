@@ -1,5 +1,0 @@
-require 'atom'
-require 'open-uri'
-require 'buzzr/feed'
-require 'buzzr/feed_entry'
-require 'buzzr/feed_reply'
